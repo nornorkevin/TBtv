@@ -1,81 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="央视",CCTV 1
-http://gslbserv.itv.cmvideo.cn/5000000011000031116/1.m3u8?channel-id=bestzb&Contentid=5000000011000031116&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="央视",CCTV 1
-http://gslbserv.itv.cmvideo.cn/5000000004000002226/1.m3u8?channel-id=bestzb&Contentid=5000000004000002226&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="央视",CCTV 1
-http://gslbserv.itv.cmvideo.cn/1000000005000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265001&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="央视",CCTV 1 HEVC
-http://gslbserv.itv.cmvideo.cn/5000000010000030951/1.m3u8?channel-id=bestzb&Contentid=5000000010000030951&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="央视",CCTV 2
-http://gslbserv.itv.cmvideo.cn/1000000001000023315/1.m3u8?channel-id=ystenlive&Contentid=1000000001000023315&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="央视",CCTV 2
-http://gslbserv.itv.cmvideo.cn/6000000001000014161/1.m3u8?channel-id=wasusyt&Contentid=6000000001000014161&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="央视",CCTV 2
-http://gslbserv.itv.cmvideo.cn/1000000001000023315/1.m3u8?channel-id=ystenlive&Contentid=1000000001000023315&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="央视",CCTV 3
-http://gslbserv.itv.cmvideo.cn/6000000001000022313/1.m3u8?channel-id=wasusyt&Contentid=6000000001000022313&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="央视",CCTV 3
-http://gslbserv.itv.cmvideo.cn/1000000005000265003/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265003&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="央视" ,CCTV 4,
-http://gslbserv.itv.cmvideo.cn/5000000011000031102/1.m3u8?channel-id=bestzb&Contentid=5000000011000031102&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="央视",CCTV 4
-http://gslbserv.itv.cmvideo.cn/1000000005000265004/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265004&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="央视",CCTV 5
-http://gslbserv.itv.cmvideo.cn/1000000005000025222/1.m3u8?channel-id=ystenlive&Contentid=1000000005000025222&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="央视",CCTV 5
-http://gslbserv.itv.cmvideo.cn/1000000005000265005/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265005&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="央视",CCTV 5+
-http://gslbserv.itv.cmvideo.cn/6000000001000015875/1.m3u8?channel-id=wasusyt&Contentid=6000000001000015875&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="央视",CCTV 5+
-http://gslbserv.itv.cmvideo.cn/1000000005000265016/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265016&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="央视",CCTV 6
-http://gslbserv.itv.cmvideo.cn/1000000001000001737/1.m3u8?channel-id=ystenlive&Contentid=1000000001000001737&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="央视",CCTV 6
-http://gslbserv.itv.cmvideo.cn/6000000001000004574/1.m3u8?channel-id=wasusyt&Contentid=6000000001000004574&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="央视",CCTV 6
-http://gslbserv.itv.cmvideo.cn/1000000005000265006/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265006&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="央视",CCTV 7
-http://gslbserv.itv.cmvideo.cn/1000000001000024341/1.m3u8?channel-id=ystenlive&Contentid=1000000001000024341&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="央视",CCTV 7
-http://gslbserv.itv.cmvideo.cn/6000000001000009055/1.m3u8?channel-id=wasusyt&Contentid=6000000001000009055&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="央视",CCTV 7
-http://gslbserv.itv.cmvideo.cn/1000000005000265007/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265007&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="央视",CCTV 8
-http://gslbserv.itv.cmvideo.cn/6000000001000001070/1.m3u8?channel-id=wasusyt&Contentid=6000000001000001070&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="央视",CCTV 8
-http://gslbserv.itv.cmvideo.cn/1000000005000265008/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265008&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="央视",CCTV 9
-http://gslbserv.itv.cmvideo.cn/1000000001000014583/1.m3u8?channel-id=ystenlive&Contentid=1000000001000014583&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="央视",CCTV 9
-http://gslbserv.itv.cmvideo.cn/6000000001000032162/1.m3u8?channel-id=wasusyt&Contentid=6000000001000032162&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="央视",CCTV 9
-http://gslbserv.itv.cmvideo.cn/1000000005000265009/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265009&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="央视",CCTV 10
-http://gslbserv.itv.cmvideo.cn/1000000001000023734/1.m3u8?channel-id=ystenlive&Contentid=1000000001000023734&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="央视",CCTV 10
-http://gslbserv.itv.cmvideo.cn/5000000004000012827/1.m3u8?channel-id=bestzb&Contentid=5000000004000012827&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="央视",CCTV 10 HEVC
-http://gslbserv.itv.cmvideo.cn/1000000005000265010/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265010&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="央视",CCTV 11 HEVC
-http://gslbserv.itv.cmvideo.cn/1000000005000265011/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265011&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="央视",CCTV 12 HEVC
-http://gslbserv.itv.cmvideo.cn/1000000005000265012/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265012&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="央视",CCTV 13
-http://gslbserv.itv.cmvideo.cn/5000000011000031108/1.m3u8?channel-id=bestzb&Contentid=5000000011000031108&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="央视",CCTV 14 HEVC
-http://gslbserv.itv.cmvideo.cn/1000000005000265013/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265013&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="央视",CCTV 15 HEVC
-http://gslbserv.itv.cmvideo.cn/1000000005000265014/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265014&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="央视",CCTV 16 4K HEVC
-http://gslbserv.itv.cmvideo.cn/5000000008000023254/1.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="央视",CETV-1
-http://gslbserv.itv.cmvideo.cn/5000000002000002652/1.m3u8?channel-id=bestzb&Contentid=5000000002000002652&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="央视",CETV-4
-http://gslbserv.itv.cmvideo.cn/5000000011000031126/1.m3u8?channel-id=bestzb&Contentid=5000000011000031126&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="藏语",拉萨藏语
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="藏语",拉萨藏语  
 https://tvfile.lasatv.cn/nmip-media/channellive/channel104335/playlist.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="藏语",拉萨综合
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="藏语",拉萨综合  
 https://tvfile.lasatv.cn/nmip-media/channellive/channel101894/playlist.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="藏语",拉萨文旅
 https://tvfile.lasatv.cn/nmip-media/channellive/channel103157/playlist.m3u8
@@ -103,5 +29,5 @@ https://radio.0472.org/?id=2241
 https://radio.0472.org/?id=627
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="广播",西藏汉语广播
 https://radio.0472.org/?id=628
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="广播",西藏对外交通广播
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="广播",西藏对外交通广播  
 https://radio.0472.org/?id=629
